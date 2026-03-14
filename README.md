@@ -1,6 +1,19 @@
 <!-- Animated Header -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=300&section=header&text=Zulkifli%20|%20AI%20Development%20|%20Web%20Development&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=300&section=header&text=Zulkifli%20|%20AI%20Development%20|%20Web%20Development&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+<!-- Typing Animation -->
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Developer;Web+Developer;Information+Systems+Student;Technology+Enthusiast"/>
+</p>
+
+<!-- Visitor Counter -->
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Zulkifliii&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
 <h1 align="center">Hi 👋 I'm Zulkifli</h1>
 <h3 align="center">AI Enthusiast | Information Systems Student | Future Tech Engineer</h3>
 
@@ -56,6 +69,20 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Zulkifliii&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+### 📈 GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zulkifliii&theme=tokyo-night"/>
+
+---
+
 ### 🧠 Currently Learning
 
 * Artificial Intelligence
@@ -100,4 +127,4 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=150&section=footer"/>

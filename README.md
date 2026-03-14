@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Zulkifli%20|%20AI%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Zulkifli%20|%20AI%20Development%20|%20Web%20Development&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
 <h1 align="center">Hi 👋 I'm Zulkifli</h1>
 <h3 align="center">AI Enthusiast | Information Systems Student | Future Tech Engineer</h3>

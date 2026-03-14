@@ -42,7 +42,7 @@
 #### Tools & Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,mysql,arduino,vscode,linux,xampp&perline=8"/>
+<img src="https://skillicons.dev/icons?i=git,github,mysql,postgres,arduino,vscode,visualstudio,linux&perline=8"/>
 </p>
 
 ---
@@ -70,7 +70,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Zulkifliii&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Zulkifliii&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7" />
 </p>
 
 ---

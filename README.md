@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=300&section=header&text=Zulkifli%20|%20AI%20Development%20|%20Web%20Development&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<!-- Typing Animation -->
+<!-- Typing  Animation -->
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Developer;Web+Developer;Information+Systems+Student;Technology+Enthusiast"/>

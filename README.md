@@ -1,62 +1,54 @@
-<!-- Banner -->
+<!-- Animated Header -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=300&section=header&text=Zulkifli%20|%20AI%20Development%20|%20Web%20Development&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
-<!-- Typing Animation -->
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Developer;Web+Developer;Information+Systems+Student;Technology+Enthusiast"/>
-</p>
-
-<!-- Visitor Counter -->
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Zulkifliii&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=300&section=header&text=Zulkifli%20|%20AI%20Development%20|%20Web%20Development&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<h1 align="center">Hi 👋 I'm Zulkifli</h1>
+<h3 align="center">AI Enthusiast | Information Systems Student | Future Tech Engineer</h3>
 
 ---
 
-# 👋 Hello, I'm Zulkifli
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-💻 **Information Systems Student**
-🤖 **AI & Web Development Enthusiast**
-⚡ Passionate about building technology solutions and learning new innovations.
-
----
-
-# 👨‍💻 About Me
+### 👨‍💻 About Me
 
 * 🎓 Information Systems Student
 * 🤖 Currently learning **Artificial Intelligence & Machine Learning**
 * 🌐 Interested in **Web Development & IoT**
-* ⚡ Love building useful digital systems
-* 🎯 Career goal: **Technology field in Oil & Gas Industry**
+* ⚡ Passionate about solving real-world problems with technology
+* 🎯 Career Goal: Work in **Oil & Gas Technology / Electrical Engineering Field**
 
 ---
 
-# 🚀 Tech Stack
+### 🚀 Tech Stack
+
+#### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
+
+#### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
+![Arduino](https://img.shields.io/badge/Arduino-teal?style=for-the-badge\&logo=arduino)
+![XAMPP](https://img.shields.io/badge/XAMPP-orange?style=for-the-badge)
+
+---
+
+### 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,git,mysql,arduino"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zulkifliii&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zulkifliii&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Zulkifliii&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zulkifliii&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
+### 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Zulkifliii&theme=tokyonight"/>
@@ -64,23 +56,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Zulkifliii&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-# 📈 GitHub Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zulkifliii&theme=tokyo-night"/>
-</p>
-
----
-
-# 🧠 Currently Learning
+### 🧠 Currently Learning
 
 * Artificial Intelligence
 * Machine Learning
@@ -89,7 +65,7 @@
 
 ---
 
-# 🌐 Connect With Me
+### 🌐 Connect With Me
 
 <p align="center">
 
@@ -109,14 +85,14 @@
 
 ---
 
-# 💡 Developer Quote
+### 💡 Developer Quote
 
 > "Any sufficiently advanced technology is indistinguishable from magic."
 > — Arthur C. Clarke
 
 ---
 
-# 🐍 Contribution Snake
+### 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
@@ -124,4 +100,4 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=150&section=footer"/>

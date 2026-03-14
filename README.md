@@ -1,75 +1,104 @@
-<!-- Banner -->
+<!-- Animated Header -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=35&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Zulkifli%20|%20AI%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-# Hi 👋 I'm Zulkifli
-
-🎓 Information Systems Student
-🤖 AI Enthusiast | IoT Learner | Future Tech Engineer
-
-I am passionate about technology, especially **Artificial Intelligence, IoT, and Web Development**.
-Currently learning and building projects to improve my skills in software development and emerging technologies.
+<h1 align="center">Hi 👋 I'm Zulkifli</h1>
+<h3 align="center">AI Enthusiast | Information Systems Student | Future Tech Engineer</h3>
 
 ---
 
-## 👨‍💻 About Me
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-* 🎓 Student of **Information Systems**
-* 🤖 Currently studying **Artificial Intelligence**
+### 👨‍💻 About Me
+
+* 🎓 Information Systems Student
+* 🤖 Currently learning **Artificial Intelligence & Machine Learning**
 * 🌐 Interested in **Web Development & IoT**
-* ⚡ Goal: Work in **Oil & Gas Industry (Electrical / Technology Field)**
-* 🚀 Always excited to learn new technologies
+* ⚡ Passionate about solving real-world problems with technology
+* 🎯 Career Goal: Work in **Oil & Gas Technology / Electrical Engineering Field**
 
 ---
 
-## 🚀 Tech Stack
+### 🚀 Tech Stack
 
-### Programming Languages
+#### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
+![HTML5](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
 
-### Tools & Technologies
+#### Tools & Technologies
 
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
-![XAMPP](https://img.shields.io/badge/XAMPP-orange?style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Arduino-teal?style=for-the-badge\&logo=arduino)
+![XAMPP](https://img.shields.io/badge/XAMPP-orange?style=for-the-badge)
 
 ---
 
-## 📊 GitHub Statistics
+### 📊 GitHub Analytics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zulkifliii\&show_icons=true\&theme=tokyonight)
+<p align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zulkifliii\&layout=compact\&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zulkifliii&show_icons=true&theme=tokyonight"/>
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zulkifliii&layout=compact&theme=tokyonight"/>
 
-## 🌐 Connect With Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge\&logo=instagram)](https://instagram.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://github.com/Zulkifliii)
+</p>
 
 ---
 
-## ✨ Fun Fact
+### 🔥 GitHub Streak
 
-💡 I believe **technology can solve real-world problems**.
-
-> "Technology is best when it brings people together." – Matt Mullenweg
-
----
-
-## 🔥 Current Focus
-
-* 🤖 Learning Artificial Intelligence
-* 🌐 Building Web Applications
-* 📡 Exploring Internet of Things (IoT)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Zulkifliii&theme=tokyonight"/>
+</p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
+### 🧠 Currently Learning
+
+* Artificial Intelligence
+* Machine Learning
+* Data Analytics
+* Internet of Things (IoT)
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Zulkifliii">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://instagram.com">
+<img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"/>
+</a>
+
+</p>
+
+---
+
+### 💡 Developer Quote
+
+> "Any sufficiently advanced technology is indistinguishable from magic."
+> — Arthur C. Clarke
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=150&section=footer"/>

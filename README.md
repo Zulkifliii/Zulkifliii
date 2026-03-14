@@ -35,17 +35,15 @@
 
 #### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,html,css&perline=8"/>
+</p>
 
 #### Tools & Technologies
 
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
-![Arduino](https://img.shields.io/badge/Arduino-teal?style=for-the-badge\&logo=arduino)
-![XAMPP](https://img.shields.io/badge/XAMPP-orange?style=for-the-badge)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,mysql,arduino,vscode,linux,xampp&perline=8"/>
+</p>
 
 ---
 
@@ -72,7 +70,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Zulkifliii&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Zulkifliii&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
 </p>
 
 ---

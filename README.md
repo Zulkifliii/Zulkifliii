@@ -1,7 +1,6 @@
 <!-- Animated Header -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=300&section=header&text=Zulkifli%20|%20AI%20Development%20|%20Web%20Development&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
 <h1 align="center">Hi 👋 I'm Zulkifli</h1>
 <h3 align="center">AI Enthusiast | Information Systems Student | Future Tech Engineer</h3>
 

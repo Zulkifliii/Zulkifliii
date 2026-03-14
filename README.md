@@ -70,7 +70,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Zulkifliii&theme=tokyonight&no-frame=true&margin-w=20&margin-h=20&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Zulkifliii&theme=flat&no-frame=true&margin-w=10"/>
 </p>
 
 ---
